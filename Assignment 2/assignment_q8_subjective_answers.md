@@ -6,7 +6,7 @@
 ### Experimental Plots
 
 ![](./images/time_compare/varym.png)
-![](./images/time_compare/varyn.pmg)
+![](./images/time_compare/varyn.png)
 
 ### Comparison
 The rate of increase of time taken in the case of Normal Equation is higher than of Gradient Descent when M is varied. This is consistent with the theoretical complexity as it increases at cubic rate.
